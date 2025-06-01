@@ -1,0 +1,4 @@
+backend/lucide-react
+*.log
+*.env
+node_modules/
